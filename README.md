@@ -39,3 +39,10 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w905564686.m3u8
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvretrocartoon2" Group-title="Canais Infantis", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1635453953.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://abre.ai/logoradiotupi965" Group-title="Radios", Super Radio Tupi | 96.5
+https://8923.brasilstream.com.br/stream
