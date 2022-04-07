@@ -21,7 +21,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w1434220870.m3u8
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvtvbrasil" Group-title="Canais Abertos", Tv Brasil
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl4rgaIahInQ5N1DODo9fXQ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt0iMTERzlsFeGQVMj77Kto)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvrecordnews" Group-title="Canais Abertos", Record News|FHD
 http://hubby.fun:80/Adelino/Adelino/25018
