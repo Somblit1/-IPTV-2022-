@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo" Group-title="Canais", 
-----------------------------------------------------------------------------------------Canais Abertos----------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvglobo" Group-title="Canais Abertos", Globo|FHD
 http://hubby.fun:80/Adelino/Adelino/18066
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvglobo" Group-title="Canais Abertos", Globo|HD
@@ -31,7 +29,7 @@ http://hubby.fun:80/Adelino/Adelino/25018
 http://hubby.fun:80/Adelino/Adelino/25020
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvrecordnews" Group-title="Canais Abertos", Record News|SD
 http://hubby.fun:80/Adelino/Adelino/25022
-----------------------------------------------------------------------------------------Canais Fechados----------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvdiscoverychannel" Group-title="Canais Fechados", Discovery Channel|FHD
 http://hubby.fun:80/Adelino/Adelino/23018
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvdiscoverychannel" Group-title="Canais Fechados", Discovery Channel|HD
@@ -45,7 +43,7 @@ http://hubby.fun:80/Adelino/Adelino/23000
 http://hubby.fun:80/Adelino/Adelino/23002
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvanimalplanet" Group-title="Canais Fechados", Animal Planet|SD
 http://hubby.fun:80/Adelino/Adelino/23004
-----------------------------------------------------------------------------------------24-Horas-----------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvchaves" Group-title="24-Horas", Chaves 24-Horas
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
@@ -54,6 +52,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w905564686.m3u8
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvretrocartoon2" Group-title="24-Horas", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1635453953.m3u8
-----------------------------------------------------------------------------------------Radios--------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://abre.ai/logoradiotupi965" Group-title="Radios", Super Radio Tupi | 96.5
 https://8923.brasilstream.com.br/stream
