@@ -21,7 +21,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w1434220870.m3u8
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvtvbrasil" Group-title="Canais Abertos", Tv Brasil
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt0iMTERzlsFeGQVMj77Kto)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl4rgaIahInQ5N1DODo9fXQ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvrecordnews" Group-title="Canais Abertos", Record News|FHD
 http://hubby.fun:80/Adelino/Adelino/25018
@@ -29,6 +29,15 @@ http://hubby.fun:80/Adelino/Adelino/25018
 http://hubby.fun:80/Adelino/Adelino/25020
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvrecordnews" Group-title="Canais Abertos", Record News|SD
 http://hubby.fun:80/Adelino/Adelino/25022
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvdiscoverychannel" Group-title="Canais Fechados", Discovery Channel|FHD
 http://hubby.fun:80/Adelino/Adelino/23018
@@ -44,6 +53,14 @@ http://hubby.fun:80/Adelino/Adelino/23002
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvanimalplanet" Group-title="Canais Fechados", Animal Planet|SD
 http://hubby.fun:80/Adelino/Adelino/23004
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvchaves" Group-title="24-Horas", Chaves 24-Horas
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
@@ -52,6 +69,13 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w905564686.m3u8
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logotvretrocartoon2" Group-title="24-Horas", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1635453953.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://abre.ai/logoradiotupi965" Group-title="Radios", Super Radio Tupi | 96.5
 https://8923.brasilstream.com.br/stream
